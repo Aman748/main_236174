@@ -1,2 +1,1 @@
-# main_236174
-Software Engineering
+## This Repository is used for UUM STIW2024-A171 Software Engineering course.
